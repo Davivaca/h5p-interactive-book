@@ -201,7 +201,7 @@ class StatusBar extends H5P.EventDispatcher {
     const acm = {};
 
     acm.buttonPrevious = H5P.Components.Button({
-      label: this.params.l10n.previous,
+      label: this.params.l10n.previousPage,
       styleType: 'nav',
       icon: 'previous',
       onClick: () => {
@@ -213,7 +213,7 @@ class StatusBar extends H5P.EventDispatcher {
     });
 
     acm.buttonNext = H5P.Components.Button({
-      label: this.params.l10n.next,
+      label: this.params.l10n.nextPage,
       styleType: 'nav',
       icon: 'next',
       onClick: () => {
