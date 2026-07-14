@@ -81,7 +81,7 @@
     },
     {
       "label": "Label for forwards navigation button",
-      "default": "Next"
+      "default": "Próximo"
     },
     {
       "label": "Tradução para \"Próxima página\"",
@@ -89,7 +89,7 @@
     },
     {
       "label": "Label for backwards navigation button",
-      "default": "Previous"
+      "default": "Anterior"
     },
     {
       "label": "Tradução para \"Página anterior\"",
